@@ -25,9 +25,9 @@ thinking about storing the data in a database.
 ---
 ## Index:
 - #### Introduction
-    1. `initial_insights.ipynb`
-    2. `clean_datasets.ipynb`
-    3. `cleaned_datasets_grouped.ipynb`
+    1. [initial_insights.ipynb][initial-insights]
+    2. [clean_datasets.ipynb][clean-datasets]
+    3. [cleaned_datasets_grouped.ipynb][cleaned-datasets-grouped]
     4. Raw & Cleaned Datasets
     
 - #### Information
@@ -39,7 +39,7 @@ thinking about storing the data in a database.
 ---
 ## Introduction
 There are 3 files which you can look in this exact order
-1. `initial_insights.ipynb`
+1. [initial_insights.ipynb][initial-insights]
 
     Taking a first look to the raw datasets and finding
     insights that help us understand the data we will be processing
@@ -48,7 +48,7 @@ There are 3 files which you can look in this exact order
     
     _**Note:** insights and conclusions can be found in the jupyter file_
     
-2. `clean_datasets.ipynb`
+2. [clean_datasets.ipynb][clean-datasets]
 
     We go here through the whole process standardizing the data types,
     extracting columns that should go in a different dataset
@@ -57,7 +57,7 @@ There are 3 files which you can look in this exact order
     Note: Target Database Schema
     ![database-schema][db-schema] 
      
-3. `cleaned_datasets_grouped.ipynb`
+3. [cleaned_datasets_grouped.ipynb][cleaned-datasets-grouped]
     
     Here we take the cleaned datasets and we just join them all together
     into a big and only one dataset
@@ -92,6 +92,9 @@ Get in touch -–> [fantaso][fantaso]
 [linkedin-profile]: https://www.linkedin.com/
 [fantaso]: https://github.com/fantaso/
 <!-- Extra -->
+[initial-insights]: https://github.com/Fantaso/data-analysis-and-manipulation-with-pandas/blob/master/initial_insights.ipynb
+[clean-datasets]: https://github.com/Fantaso/data-analysis-and-manipulation-with-pandas/blob/master/clean_datasets.ipynb
+[cleaned-datasets-grouped]: https://github.com/Fantaso/data-analysis-and-manipulation-with-pandas/blob/master/cleaned_datasets_grouped.ipynb
 
 <!-- Repos -->
 [github-repo]: https://github.com/Fantaso/data-analysis-and-manipulation-with-pandas
